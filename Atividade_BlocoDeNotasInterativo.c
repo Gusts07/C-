@@ -6,8 +6,7 @@ opção de editar o cadastro
 mostrar todos os cadastro
 excluir o cadastro
 Bloco de notas
-Adicionar posições para achar o bloco
-Usar comando go to, para controle*/
+Adicionar posições para achar o bloco*/
 
 #include <stdio.h>
 #include <stdlib.h>
